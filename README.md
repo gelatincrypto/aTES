@@ -1,6 +1,10 @@
 # aTES
 Awesome Task Exchange System (aTES) для UberPopug Inc
 
+## UPD 09.05
+К сожалению, тут пока ничего нет. Разбираюсь с authN и authZ в .net, эта тема у меня по нулям.
+
+
 ## EventStorming
 ![EventStorming](https://downloader.disk.yandex.ru/preview/13a063c2976ad477830dae03efaaf3e9f2a9914c8ab9a3441058cdf19d453cf3/62708124/uI5eedR9gQwG40rP_lBaLup9_Cxwiim9_IoO_GJ_8rF1i7ZP5IvBWbhr-cqHRyIuDMCKguXHGnZgOIXrSM_8BQ%3D%3D?uid=0&filename=EventStorming.JPG&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048)
 
